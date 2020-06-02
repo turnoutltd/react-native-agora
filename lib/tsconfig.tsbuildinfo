@@ -1,0 +1,481 @@
+{
+  "program": {
+    "fileInfos": {
+      "../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "signature": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
+        "signature": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/tslib/tslib.d.ts": {
+        "version": "4576b4e61049f5ffd7c9e935cf88832e089265bdb15ffc35077310042cbbbeea",
+        "signature": "4576b4e61049f5ffd7c9e935cf88832e089265bdb15ffc35077310042cbbbeea",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-native/globals.d.ts": {
+        "version": "42fe955ea0e51c1dbfa150f5183b4bb5f0f4d2aa09085f6d0bf48d426b3f7104",
+        "signature": "42fe955ea0e51c1dbfa150f5183b4bb5f0f4d2aa09085f6d0bf48d426b3f7104",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/react-native/legacy-properties.d.ts": {
+        "version": "818a9a35cf844bd8380e9273b8ed82023c614164d0975f096b8c9b680730cbc3",
+        "signature": "818a9a35cf844bd8380e9273b8ed82023c614164d0975f096b8c9b680730cbc3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-native/batchedbridge.d.ts": {
+        "version": "496293b62091a5bfb97dac7a0055f3e73dfc7b8d8c220000ecf68635c0bef790",
+        "signature": "496293b62091a5bfb97dac7a0055f3e73dfc7b8d8c220000ecf68635c0bef790",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/react-native/devtools.d.ts": {
+        "version": "715ee74e86e7388d2923cd6377fafcf3f86bea534d5cb4c827a1603383fabdb3",
+        "signature": "715ee74e86e7388d2923cd6377fafcf3f86bea534d5cb4c827a1603383fabdb3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-native/launchscreen.d.ts": {
+        "version": "234b97ac9af46707f2315ff395a9b340d37b7dbc8290d91f5d6bd97189d220f3",
+        "signature": "234b97ac9af46707f2315ff395a9b340d37b7dbc8290d91f5d6bd97189d220f3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/prop-types/index.d.ts": {
+        "version": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad",
+        "signature": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react/global.d.ts": {
+        "version": "ecf78e637f710f340ec08d5d92b3f31b134a46a4fcf2e758690d8c46ce62cba6",
+        "signature": "ecf78e637f710f340ec08d5d92b3f31b134a46a4fcf2e758690d8c46ce62cba6",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/csstype/index.d.ts": {
+        "version": "cd4fba36eeb79a6e2ff14bbe1024cd83ae542c1bd1c2a02ed853ebc251974119",
+        "signature": "cd4fba36eeb79a6e2ff14bbe1024cd83ae542c1bd1c2a02ed853ebc251974119",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react/index.d.ts": {
+        "version": "e726c865f71af8f20d4a03e17182f62a38e1fd300161b867dc6068ce6529f7f2",
+        "signature": "e726c865f71af8f20d4a03e17182f62a38e1fd300161b867dc6068ce6529f7f2",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/react-native/index.d.ts": {
+        "version": "36315018fe3af7436aabf13006ce360c8be608b46f35591bb6b5e7e664b7e9a7",
+        "signature": "36315018fe3af7436aabf13006ce360c8be608b46f35591bb6b5e7e664b7e9a7",
+        "affectsGlobalScope": true
+      },
+      "../src/types.ts": {
+        "version": "5ca748ad9722f75f749cfdf170fff4893be8e2d5ed5cac6c7ab3ebd9d989ff06",
+        "signature": "74d842ba7cb27bfa730f8d052e2b9e3ebf8d35965d616a85dbe458e366cf374b",
+        "affectsGlobalScope": false
+      },
+      "../src/rtcevents.ts": {
+        "version": "4a54eebd05f09423b460e74ddc5151d7f0ec93ea230435cd35b07115830ef554",
+        "signature": "d191ed70ecea0f721165ac9027c8dc4c7de6ea0747191c4f78e12a6c9f21491f",
+        "affectsGlobalScope": false
+      },
+      "../src/rtcchannel.native.ts": {
+        "version": "9fba8e264955f142662db355a466fd61773dfdff644a0bd2934445babe2e626d",
+        "signature": "fd5e50b06483f1b77394fc412517d49b0fef1e9035ed85609489e82b733daf46",
+        "affectsGlobalScope": false
+      },
+      "../src/rtcengine.native.ts": {
+        "version": "c0c8a27ee350d8a1d12d8e06a000d271bbb1b629f1cda3ae743044fd8f0475c9",
+        "signature": "e1397ca0ee17576d1ea2953f3e2a2eb6cd1294943c345968463da536e892878e",
+        "affectsGlobalScope": false
+      },
+      "../src/rtcrenderview.native.tsx": {
+        "version": "cdc2ae7d148f2b81cb35e8689f50840d24f2ef6a554e302882c1e14b85036807",
+        "signature": "29b62a98be48cf62751709bb3e6d9ad22576ce20a7222cf637008afe9fec2f1f",
+        "affectsGlobalScope": false
+      },
+      "../src/index.ts": {
+        "version": "fca102c0b2676f2247d360c3ae237c6d39ead5afcbe6ca8ad35c023a10bb33e1",
+        "signature": "b6bfae886e4755049cd2cbd7206460d2491fb49eceed6a0c98b7c9d81730c3e3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@babel/types/lib/index.d.ts": {
+        "version": "7ee922c7a87439793beb93c017322c08ec832f3929d65ace7db85079c6247f2c",
+        "signature": "7ee922c7a87439793beb93c017322c08ec832f3929d65ace7db85079c6247f2c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/babel__generator/index.d.ts": {
+        "version": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
+        "signature": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/babel__traverse/index.d.ts": {
+        "version": "cc0e8c69a59c7e4e15bd28e1eebe9a660c47c202e298cb20a93285368051193f",
+        "signature": "cc0e8c69a59c7e4e15bd28e1eebe9a660c47c202e298cb20a93285368051193f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@babel/parser/typings/babel-parser.d.ts": {
+        "version": "fa7d1d20dd776b2dd40931cb3ae865dd624f38edd86f3407344b609e43def590",
+        "signature": "fa7d1d20dd776b2dd40931cb3ae865dd624f38edd86f3407344b609e43def590",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/babel__template/index.d.ts": {
+        "version": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "signature": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/babel__core/index.d.ts": {
+        "version": "ab3e92a5a46b6ded50c6b9e7de05739fa1de6df50e24a14706a5cc525300548b",
+        "signature": "ab3e92a5a46b6ded50c6b9e7de05739fa1de6df50e24a14706a5cc525300548b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/color-name/index.d.ts": {
+        "version": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
+        "signature": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/eslint-visitor-keys/index.d.ts": {
+        "version": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
+        "signature": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/istanbul-lib-coverage/index.d.ts": {
+        "version": "b7b0f360867e85305ac700e4c6f084d45adfa417a8f5d964b6f609f99ee92772",
+        "signature": "b7b0f360867e85305ac700e4c6f084d45adfa417a8f5d964b6f609f99ee92772",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/istanbul-lib-report/index.d.ts": {
+        "version": "7eb06594824ada538b1d8b48c3925a83e7db792f47a081a62cf3e5c4e23cf0ee",
+        "signature": "7eb06594824ada538b1d8b48c3925a83e7db792f47a081a62cf3e5c4e23cf0ee",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/istanbul-reports/index.d.ts": {
+        "version": "029769d13d9917e3284cb2356ed28a6576e8b07ae6a06ee1e672518adf21a102",
+        "signature": "029769d13d9917e3284cb2356ed28a6576e8b07ae6a06ee1e672518adf21a102",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/jest-diff/build/types.d.ts": {
+        "version": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7",
+        "signature": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/jest-diff/build/index.d.ts": {
+        "version": "162c6f2951bd80ae6e16679378f382200b26bba9de8f255af3a2895fbfa670b4",
+        "signature": "162c6f2951bd80ae6e16679378f382200b26bba9de8f255af3a2895fbfa670b4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/jest/index.d.ts": {
+        "version": "375c56b1890858dcdae495877f0ce3b694980adf64762e2fd3fbe78e3eac76ba",
+        "signature": "375c56b1890858dcdae495877f0ce3b694980adf64762e2fd3fbe78e3eac76ba",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/json-schema/index.d.ts": {
+        "version": "92bc43ea5584457c9325a3d5b2ce5af77df6d2653be7e4c2e9a626f89293c3c1",
+        "signature": "92bc43ea5584457c9325a3d5b2ce5af77df6d2653be7e4c2e9a626f89293c3c1",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-test-renderer/index.d.ts": {
+        "version": "d255704f3310198e567665abb2d45ae4edaa3d5b3e16d86dee18a7d88c944815",
+        "signature": "d255704f3310198e567665abb2d45ae4edaa3d5b3e16d86dee18a7d88c944815",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/stack-utils/index.d.ts": {
+        "version": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
+        "signature": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/yargs-parser/index.d.ts": {
+        "version": "fdfbe321c556c39a2ecf791d537b999591d0849e971dd938d88f460fea0186f6",
+        "signature": "fdfbe321c556c39a2ecf791d537b999591d0849e971dd938d88f460fea0186f6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/yargs/index.d.ts": {
+        "version": "6055ac126cf1a6c818330d033eb3e99df5070a598359fe30c430f844dafac7ce",
+        "signature": "6055ac126cf1a6c818330d033eb3e99df5070a598359fe30c430f844dafac7ce",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "target": 99,
+      "module": 1,
+      "lib": [
+        "lib.es2015.d.ts"
+      ],
+      "allowJs": true,
+      "jsx": 2,
+      "declaration": true,
+      "sourceMap": true,
+      "outDir": "./",
+      "incremental": true,
+      "importHelpers": true,
+      "isolatedModules": true,
+      "strict": true,
+      "moduleResolution": 2,
+      "baseUrl": "..",
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@types/babel__core/index.d.ts": [
+        "../node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "../node_modules/@babel/types/lib/index.d.ts",
+        "../node_modules/@types/babel__generator/index.d.ts",
+        "../node_modules/@types/babel__template/index.d.ts",
+        "../node_modules/@types/babel__traverse/index.d.ts"
+      ],
+      "../node_modules/@types/babel__generator/index.d.ts": [
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@types/babel__template/index.d.ts": [
+        "../node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@types/babel__traverse/index.d.ts": [
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "../node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "../node_modules/@types/istanbul-reports/index.d.ts": [
+        "../node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "../node_modules/@types/istanbul-lib-report/index.d.ts"
+      ],
+      "../node_modules/@types/jest/index.d.ts": [
+        "../node_modules/jest-diff/build/index.d.ts"
+      ],
+      "../node_modules/@types/react-native/devtools.d.ts": [
+        "../node_modules/@types/react-native/devtools.d.ts"
+      ],
+      "../node_modules/@types/react-native/index.d.ts": [
+        "../node_modules/@types/prop-types/index.d.ts",
+        "../node_modules/@types/react-native/batchedbridge.d.ts",
+        "../node_modules/@types/react-native/devtools.d.ts",
+        "../node_modules/@types/react-native/globals.d.ts",
+        "../node_modules/@types/react-native/launchscreen.d.ts",
+        "../node_modules/@types/react-native/legacy-properties.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react-native/legacy-properties.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../node_modules/@types/react-test-renderer/index.d.ts": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react/index.d.ts": [
+        "../node_modules/@types/prop-types/index.d.ts",
+        "../node_modules/@types/react/global.d.ts",
+        "../node_modules/csstype/index.d.ts"
+      ],
+      "../node_modules/@types/yargs/index.d.ts": [
+        "../node_modules/@types/yargs-parser/index.d.ts"
+      ],
+      "../node_modules/jest-diff/build/index.d.ts": [
+        "../node_modules/jest-diff/build/types.d.ts"
+      ],
+      "../src/index.ts": [
+        "../src/rtcchannel.native.ts",
+        "../src/rtcengine.native.ts",
+        "../src/rtcrenderview.native.tsx",
+        "../src/types.ts"
+      ],
+      "../src/rtcchannel.native.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../src/rtcevents.ts",
+        "../src/types.ts"
+      ],
+      "../src/rtcengine.native.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../src/rtcchannel.native.ts",
+        "../src/rtcevents.ts",
+        "../src/types.ts"
+      ],
+      "../src/rtcevents.ts": [
+        "../src/types.ts"
+      ],
+      "../src/rtcrenderview.native.tsx": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../src/types.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@types/babel__core/index.d.ts": [
+        "../node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "../node_modules/@babel/types/lib/index.d.ts",
+        "../node_modules/@types/babel__generator/index.d.ts",
+        "../node_modules/@types/babel__template/index.d.ts",
+        "../node_modules/@types/babel__traverse/index.d.ts"
+      ],
+      "../node_modules/@types/babel__generator/index.d.ts": [
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@types/babel__template/index.d.ts": [
+        "../node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@types/babel__traverse/index.d.ts": [
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "../node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "../node_modules/@types/istanbul-reports/index.d.ts": [
+        "../node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "../node_modules/@types/istanbul-lib-report/index.d.ts"
+      ],
+      "../node_modules/@types/jest/index.d.ts": [
+        "../node_modules/jest-diff/build/index.d.ts"
+      ],
+      "../node_modules/@types/react-native/devtools.d.ts": [
+        "../node_modules/@types/react-native/devtools.d.ts"
+      ],
+      "../node_modules/@types/react-native/index.d.ts": [
+        "../node_modules/@types/prop-types/index.d.ts",
+        "../node_modules/@types/react-native/batchedbridge.d.ts",
+        "../node_modules/@types/react-native/devtools.d.ts",
+        "../node_modules/@types/react-native/globals.d.ts",
+        "../node_modules/@types/react-native/launchscreen.d.ts",
+        "../node_modules/@types/react-native/legacy-properties.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react-native/legacy-properties.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../node_modules/@types/react-test-renderer/index.d.ts": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react/index.d.ts": [
+        "../node_modules/@types/prop-types/index.d.ts",
+        "../node_modules/@types/react/global.d.ts",
+        "../node_modules/csstype/index.d.ts"
+      ],
+      "../node_modules/@types/yargs/index.d.ts": [
+        "../node_modules/@types/yargs-parser/index.d.ts"
+      ],
+      "../node_modules/jest-diff/build/index.d.ts": [
+        "../node_modules/jest-diff/build/types.d.ts"
+      ],
+      "../src/index.ts": [
+        "../src/rtcchannel.native.ts",
+        "../src/rtcengine.native.ts",
+        "../src/rtcrenderview.native.tsx",
+        "../src/types.ts"
+      ],
+      "../src/rtcchannel.native.ts": [
+        "../src/rtcevents.ts",
+        "../src/types.ts"
+      ],
+      "../src/rtcengine.native.ts": [
+        "../src/rtcevents.ts",
+        "../src/types.ts"
+      ],
+      "../src/rtcevents.ts": [
+        "../src/types.ts"
+      ],
+      "../src/rtcrenderview.native.tsx": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../src/types.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../node_modules/@babel/parser/typings/babel-parser.d.ts",
+      "../node_modules/@babel/types/lib/index.d.ts",
+      "../node_modules/@types/babel__core/index.d.ts",
+      "../node_modules/@types/babel__generator/index.d.ts",
+      "../node_modules/@types/babel__template/index.d.ts",
+      "../node_modules/@types/babel__traverse/index.d.ts",
+      "../node_modules/@types/color-name/index.d.ts",
+      "../node_modules/@types/eslint-visitor-keys/index.d.ts",
+      "../node_modules/@types/istanbul-lib-coverage/index.d.ts",
+      "../node_modules/@types/istanbul-lib-report/index.d.ts",
+      "../node_modules/@types/istanbul-reports/index.d.ts",
+      "../node_modules/@types/jest/index.d.ts",
+      "../node_modules/@types/json-schema/index.d.ts",
+      "../node_modules/@types/prop-types/index.d.ts",
+      "../node_modules/@types/react-native/batchedbridge.d.ts",
+      "../node_modules/@types/react-native/devtools.d.ts",
+      "../node_modules/@types/react-native/globals.d.ts",
+      "../node_modules/@types/react-native/index.d.ts",
+      "../node_modules/@types/react-native/launchscreen.d.ts",
+      "../node_modules/@types/react-native/legacy-properties.d.ts",
+      "../node_modules/@types/react-test-renderer/index.d.ts",
+      "../node_modules/@types/react/global.d.ts",
+      "../node_modules/@types/react/index.d.ts",
+      "../node_modules/@types/stack-utils/index.d.ts",
+      "../node_modules/@types/yargs-parser/index.d.ts",
+      "../node_modules/@types/yargs/index.d.ts",
+      "../node_modules/csstype/index.d.ts",
+      "../node_modules/jest-diff/build/index.d.ts",
+      "../node_modules/jest-diff/build/types.d.ts",
+      "../node_modules/tslib/tslib.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.es5.d.ts",
+      "../src/index.ts",
+      "../src/rtcchannel.native.ts",
+      "../src/rtcengine.native.ts",
+      "../src/rtcevents.ts",
+      "../src/rtcrenderview.native.tsx",
+      "../src/types.ts"
+    ]
+  },
+  "version": "3.9.3"
+}
